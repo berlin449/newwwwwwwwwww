@@ -1,5 +1,5 @@
 # Ex01 Django ORM Web Application
-## Date: 
+## Date: 29/04/2026
 
 ## AIM
 To develop a Django application to manage an online food delivery platform like Zomato/Swiggy using Object Relational Mapping (ORM).
@@ -23,13 +23,15 @@ Enter the code for admin.py and models.py
 Execute Django admin and create details for 10 books
 
 ## PROGRAM
-
+```
+hhhhhhhhh
+```
 
 
 ## OUTPUT
+![alt text](apple.jpg)
 
-Include the screenshot of your admin page.
 
-
+i
 ## RESULT
 Thus the program for creating a database using ORM hass been executed successfully

@@ -23,9 +23,12 @@ Enter the code for admin.py and models.py
 Execute Django admin and create details for 10 books
 
 ## PROGRAM
-```
+'''
 hhhhhhhhh
-```
+bbbbbbbbbbbbbb
+nnnnnnnnnn
+nnnn
+'''
 
 
 ## OUTPUT
@@ -34,4 +37,4 @@ hhhhhhhhh
 
 i
 ## RESULT
-Thus the program for creating a database using ORM hass been executed successfully
+Thus the program for cregit pushating a database using ORM hass been executed successfully
